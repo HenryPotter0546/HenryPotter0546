@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GitHubHenryPotter0546)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=HenryPotter0546)]()
