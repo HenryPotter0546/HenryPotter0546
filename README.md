@@ -11,8 +11,8 @@
 
 <!-- 2. AI/Diffusion 专属标签：用图标强化个人定位 -->
 <div align="left">
-  <img src="https://img.shields.io/badge/AI-生成式人工智能-FF6B6B?style=flat-square&logo=artstation" alt="AI">
   <img src="https://img.shields.io/badge/Stable%20Diffusion-模型调优-4ECDC4?style=flat-square&logo=opencv" alt="Stable Diffusion">
+  <img src="https://img.shields.io/badge/AI-生成式人工智能-FF6B6B?style=flat-square&logo=artstation" alt="AI">
   <img src="https://img.shields.io/badge/Machine%20Learning-机器学习-FFD166?style=flat-square&logo=tensorflow" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Python-编程工具-06D6A0?style=flat-square&logo=python" alt="Python">
 </div>
