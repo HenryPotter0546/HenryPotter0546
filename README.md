@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there👋
 
 ### 🌟 About Me
 - 对 **AI 技术**（尤其是生成式 AI）和 **Stable Diffusion** 有极高热情，喜欢探索模型调优、Prompt 工程与应用落地
