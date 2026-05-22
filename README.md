@@ -6,7 +6,7 @@
 
 ### 📊 GitHub 数据
 <!-- 1. 基础统计：定制主题色、显示图标、隐藏私有贡献 -->
-[![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenryPotter0546&show_icons=true&theme=tokyonight&hide=contribs,prs&include_all_commits=true)]()
+[![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenryPotter0546&show_icons=true&theme=tokyonight&hide=contribs,prs&include_all_commits=true)](https://github.com/HenryPotter0546)
 
 
 <!-- 2. AI/Diffusion 专属标签：用图标强化个人定位 -->
